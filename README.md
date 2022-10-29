@@ -8,7 +8,7 @@ I will have to use this as an introduction to a project that I had been wanting 
 
 ## Roadmap
 
-- [x] Define, Understand what Machine Learning means [Day 1 of ML](ML-DAY1)
+- [x] Define, Understand what Machine Learning means [Day 1 of ML](ML1-url)
 - [ ] Define Project
 - [ ] Data Flow
 - [ ] Where to get Data?
@@ -25,4 +25,4 @@ I will have to use this as an introduction to a project that I had been wanting 
         [ ] Statistics
 
 
-[ML-DAY1]: https://github.com/ivymorenomt/100DaysML/tree/master/DAY%201
+[ML1-url]: https://github.com/ivymorenomt/100DaysML/tree/master/DAY%201
