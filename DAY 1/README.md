@@ -11,4 +11,4 @@ The goal of Machine learning is to act more like humans. The smarter they get, t
 
 Reference: 
 
-[ML-screenshot]: images/ML.png
+[ML-screenshot]: ../images/ML.png
