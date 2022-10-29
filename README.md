@@ -8,7 +8,7 @@ I will have to use this as an introduction to a project that I had been wanting 
 
 ## Roadmap
 
-- [x] Define, Understand what Machine Learning means [Day 1 of ML](ML1-url)
+- [x] Define, Understand what Machine Learning means [Day 1 of ML][ML1-url]
 - [ ] Define Project
 - [ ] Data Flow
 - [ ] Where to get Data?
