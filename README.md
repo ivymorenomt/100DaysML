@@ -7,8 +7,8 @@ This should serve as my learning space and at the same time, a resource for begi
 I will have to use this as an introduction to a project that I had been wanting to implement. Within this 100 days of learning, I should be able to complete a viable product. 
 
 ## Roadmap
-
-- [x] Define, Understand what Machine Learning means [Day 1 of ML][ML1-url]
+- [x] Define, Understand what Machine Learning means
+  - [x] [Day 1 - 10][ML1-url]
 - [ ] Define Project
 - [ ] Data Flow
 - [ ] Where to get Data?
@@ -25,4 +25,4 @@ I will have to use this as an introduction to a project that I had been wanting 
         [ ] Statistics
 
 
-[ML1-url]: https://github.com/ivymorenomt/100DaysML/tree/master/DAY%201
+[ML1-url]: 100DAYSML\1-10
