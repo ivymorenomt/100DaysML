@@ -14,10 +14,8 @@ I will also be tackling a tool called Jupyter in this section.
       <a href=[ML1-url]>Intro to Machine Learning</a>
     </li>
     <li><a href=[ML2-url]>Regression Learning</a></li>
-    <!-- <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li> -->
   </ol>
 
 
-[ML1-url]: https://github.com/ivymorenomt/100DaysML/tree/master/DAY%201
-[ML2-url]: 
+[ML1-url]: https://github.com/ivymorenomt/100DaysML/blob/master/1-10/Day1_ML101.md
+[ML2-url]: https://github.com/ivymorenomt/100DaysML/blob/master/1-10/Day2_RegressionLearning.md

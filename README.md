@@ -25,4 +25,4 @@ I will have to use this as an introduction to a project that I had been wanting 
         [ ] Statistics
 
 
-[ML1-url]: 100DAYSML\1-10
+[ML1-url]: https://github.com/ivymorenomt/100DaysML/tree/master/1-10
