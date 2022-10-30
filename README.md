@@ -21,6 +21,9 @@ I will have to use this as an introduction to a project that I had been wanting 
   - [ ] Scikit - for visualization
 - [ ] Maths for Algorithms
   - [ ] Linear Algebra
+    - [ ] Vectors
+    - [ ] Matrix and Matrices
+    - [ ] Eigenvalues and Eigenvectors  
   - [ ] Calculus
   - [ ] Statistics
 
