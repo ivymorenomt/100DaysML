@@ -15,7 +15,7 @@ I will have to use this as an introduction to a project that I had been wanting 
         [ ] Kaggle
         [ ] Scrape and apply NLP (Another Topic to Learn)
 - [ ] Tools to use
-        [ ] Jupyter
+        [ ] Jupyter 
         [ ] SQL Language
         [ ] Python
         [ ] Scikit - for visualization

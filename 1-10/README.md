@@ -6,16 +6,12 @@ Linear equations and how it is used in Linear Regression will also be tackled in
 
 I will also be tackling a tool called Jupyter in this section.
 
+#### Table of Contents
 
-<!-- TABLE OF CONTENTS -->
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href=[ML1-url]>Intro to Machine Learning</a>
-    </li>
-    <li><a href=[ML2-url]>Regression Learning</a></li>
-  </ol>
-
+- [Intro to ML][ML1-url]
+- [Regression Learning][ML2-url]
+- [Tool: Jupyter][ML3-url]
 
 [ML1-url]: https://github.com/ivymorenomt/100DaysML/blob/master/1-10/Day1_ML101.md
 [ML2-url]: https://github.com/ivymorenomt/100DaysML/blob/master/1-10/Day2_RegressionLearning.md
+[ML3-url]: https://github.com/ivymorenomt/100DaysML/blob/master/1-10/Day3_JupyterTool.md
