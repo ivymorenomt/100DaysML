@@ -42,13 +42,27 @@ It doesn't know what it's doing at first but then it tries to maximize the score
 
 Key takeaway is that these types of learning learns from the data that receives and predicts something.
 
+#### Types of Machine Learning Algorithms
+1. Linear Regression
+2. Logistic Regression 
+3. Decision Tree
+4. SVM Algorithm
+5. Naive Bayes Algorithm
+6. KNN Algorithm
+7. K-means
+8. Random forest Algorithm
+9. Dimensionality reduction algorithm
+10. Gradient Boosting Algorithm and AdaBoosting algorithm
+
 References: 
 - [What is Machine Learning][WhatisML-url]
 - [14 Types of Machine Learning][14Types-url]
 - [Different types of Learning Algorithms][Supervised-Unsupervised-url]
+- [Machine Learning Types][ML-types-url]
 
 
 [ML-screenshot]: ../images/ML.png
 [WhatisML-url]: https://www.datarobot.com/wiki/machine-learning/
 [14Types-url]: https://machinelearningmastery.com/types-of-learning-in-machine-learning/
 [Supervised-Unsupervised-url]: https://machinelearningmastery.com/supervised-and-unsupervised-machine-learning-algorithms/
+[ML-types-url]: https://www.simplilearn.com/10-algorithms-machine-learning-engineers-need-to-know-article
