@@ -31,7 +31,7 @@ The Machine Learning Model I will be using would be most likely Linear Regressio
 Linear Regression's objective is to establish if there is a relationship between variables. The variables may just be gender, age, food/dietary intake, weather conditions, and hormonal changes. I may have to add more variables as the project progresses.
 
 ### Tools to use
-- Jupyter maybe used for modelling
+- Jupyter
 - Python
 - Pandas library
 
