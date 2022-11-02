@@ -9,7 +9,8 @@ I will have to use this as an introduction to a project that I had been wanting 
 ## Roadmap
 - [x] Define, Understand what Machine Learning means
   - [x] [Day 1 - 10][ML1-url]
-- [ ] Define Project
+- [x] Define Project
+  - [x] [Project Definition][ML1.2-url]
 - [ ] Data Flow
 - [ ] Where to get Data?
   - [ ] Kaggle
@@ -29,3 +30,4 @@ I will have to use this as an introduction to a project that I had been wanting 
 
 
 [ML1-url]: https://github.com/ivymorenomt/100DaysML/tree/master/1-10
+[ML1.2-url]: https://github.com/ivymorenomt/100DaysML/blob/master/1-10/Day2_DefineProject.md

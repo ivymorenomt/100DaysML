@@ -18,10 +18,42 @@ I am one of those people who does not go thru this stage.
 4. Postdrome - The final stage of migraine. It can also take days to disappear. The symptoms maybe similar to prodrome. If the symptoms were mood changes, most likely the postdrome will have the same. 
 
 Below image shows the timeline of a migraine(image grabbed from [American Migraine][amerimigraine-url]):
-![Migraine](migraine-timeline)
+![Migraine](https://github.com/ivymorenomt/100DaysML/blob/master/images/migraine.jpg)
 
+
+### Purpose
 The purpose of this project is to show likelihood of an incoming migraine. I am unable to predict my own migraines most of the time even if I have a diary or a journal handy. I would assume this is the same predicament of most migraine sufferers - sometimes they feel clear, and sometimes they don't.
 
+I would likely get data from Kaggle, my migraine buddy app, and scrape comments or posts from a migraine community that I have joined on Facebook. If these are not possible, I may conduct a survey and use the data as my reference for this project.
+
+The Machine Learning Model I will be using would be most likely Linear Regression. I may also be free to experiment on other learning models to see which model would be the most accurate or efficient for this research project.
+
+Linear Regression's objective is to establish if there is a relationship between variables. The variables may just be gender, age, food/dietary intake, weather conditions, and hormonal changes. I may have to add more variables as the project progresses.
+
+### Tools to use
+- Jupyter maybe used for modelling
+- Python
+- Pandas library
+
+### Deployment Process
+I may have to use FastAPI for web visualization - so the model can be accessible in public.
+
+<!-- ### Source of Dataset
+
+
+### Data Cleaning Techniques in Brief
+
+### Exploratory Data Analysis 
+
+### Model Building
+
+### Model Performance
+
+### Deployment
+
+
+### Resources
+ -->
 
 References:
 
