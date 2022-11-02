@@ -22,7 +22,7 @@ Below image shows the timeline of a migraine(image grabbed from [American Migrai
 
 
 ### Purpose
-The purpose of this project is to show likelihood of an incoming migraine. I am unable to predict my own migraines most of the time even if I have a diary or a journal handy. I would assume this is the same predicament of most migraine sufferers - sometimes they feel clear, and sometimes they don't.
+The purpose of this project is to predict likelihood of an incoming migraine. I am unable to predict my own migraines most of the time even if I have a diary or a journal handy. I would assume this is the same predicament of most migraine sufferers - sometimes they feel clear, and sometimes they don't.
 
 I would likely get data from Kaggle, my migraine buddy app, and scrape comments or posts from a migraine community that I have joined on Facebook. If these are not possible, I may conduct a survey and use the data as my reference for this project.
 
