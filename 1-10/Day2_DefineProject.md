@@ -11,7 +11,7 @@ A typical stage involves the following:
 
 2. Aura - Some people go thru this stage(but not necessarily every time). This occurs due to a spontaneous, slow moving wave that passes over the surface of the brain temporarily affecting the functioning parts it passes over. The symptoms are visual disturbances, temporary loss of sight, or numbness or tingling of the body. This can last for five to 60 minutes.
 I am one of those people who does not go thru this stage.
-3. Headache - This is the main attack stage. 
+3. Headache - This is the main attack stage. It is typically throbbing, made worse by movement, light or sound.It is also usually on one side or can be on both sides. Nasal congestion is occasionally experienced in this stage.Sickness and vomiting can also happen during this stage. This can last for 4 hours up to 3 days or more.
 4. Postdrome
 
 The purpose of this project is to show likelihood of an incoming migraine. I am unable to predict my own migraines most of the time even if I have a diary or a journal handy. I would assume this is the same predicament of most migraine sufferers - sometimes they feel clear, and sometimes they don't.
