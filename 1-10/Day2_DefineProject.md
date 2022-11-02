@@ -4,7 +4,7 @@ People have regular headaches everyday, from every walks of life. It stems from 
 
 There are different types of headaches, which I don't want to list down in this project, and one of them is Migraines.
 
-Migraines are a very debilitating, disabling type of headache. It has four different stages before a full blown headache is felt. 
+Migraines are a very debilitating, disabling type of headache. A migraine sufferer will go thru 4 different stages and it may last for days or even weeks or months - in case of chronic migraines. 
 
 A typical stage involves the following:
 1. Prodrome - During this stage, people can feel a variety of physical and mental changes such as tiredness, mood changes, increased yawning, increased need to urinate, light and sound sensitivities, thirsty, and a lot more. This can last for few hours to days.
