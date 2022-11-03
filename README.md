@@ -11,6 +11,14 @@ I will have to use this as an introduction to a project that I had been wanting 
   - [x] [Day 1 - 10][ML1-url]
 - [x] Define Project
   - [x] [Project Definition][ML1.2-url] 
+- [ ] Maths for Algorithms
+  - Linear Algebra
+    - [x] Linear Equation
+    - [ ] Matrix and Matrices
+    - [ ] Eigenvalues and Eigenvectors  
+  - Calculus
+  - Statistics
+    - [] Basics (Mean, Median, etc)
 - [ ] Where to get Data?
   - [ ] Kaggle
   - [ ] Scrape and apply NLP (Another Topic to Learn)
@@ -26,13 +34,7 @@ I will have to use this as an introduction to a project that I had been wanting 
   - [ ] SQL Language
   - [ ] Python
   - [ ] Scikit - for visualization
-- [ ] Maths for Algorithms
-  - [ ] Linear Algebra
-    - [ ] Vectors
-    - [ ] Matrix and Matrices
-    - [ ] Eigenvalues and Eigenvectors  
-  - [ ] Calculus
-  - [ ] Statistics
+
 
 
 
