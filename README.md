@@ -13,7 +13,7 @@ I will have to use this as an introduction to a project that I had been wanting 
   - [x] [Project Definition][ML1.2-url] 
 - [ ] Maths for Algorithms
   - Linear Algebra
-    - [x] Linear Equation[Regression Learning][ML1.3-url]
+    - [x] Linear Equation [Regression Learning][ML1.3-url]
     - [ ] Matrix and Matrices
     - [ ] Eigenvalues and Eigenvectors  
   - Calculus
