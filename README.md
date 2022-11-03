@@ -13,7 +13,7 @@ I will have to use this as an introduction to a project that I had been wanting 
   - [x] [Project Definition][ML1.2-url] 
 - [ ] Maths for Algorithms
   - Linear Algebra
-    - [x] Linear Equation
+    - [x] Linear Equation[Regression Learning][ML1.3-url]
     - [ ] Matrix and Matrices
     - [ ] Eigenvalues and Eigenvectors  
   - Calculus
@@ -40,3 +40,4 @@ I will have to use this as an introduction to a project that I had been wanting 
 
 [ML1-url]: https://github.com/ivymorenomt/100DaysML/tree/master/1-10
 [ML1.2-url]: https://github.com/ivymorenomt/100DaysML/blob/master/1-10/Day2_DefineProject.md
+[ML1.3-url]: https://github.com/ivymorenomt/100DaysML/blob/master/1-10/Day3_RegressionLearning.md
