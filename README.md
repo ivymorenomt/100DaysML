@@ -10,11 +10,17 @@ I will have to use this as an introduction to a project that I had been wanting 
 - [x] Define, Understand what Machine Learning means
   - [x] [Day 1 - 10][ML1-url]
 - [x] Define Project
-  - [x] [Project Definition][ML1.2-url]
-- [ ] Data Flow
+  - [x] [Project Definition][ML1.2-url] 
 - [ ] Where to get Data?
   - [ ] Kaggle
   - [ ] Scrape and apply NLP (Another Topic to Learn)
+- [ ] Data Lifecycle
+  - [ ] Source of Dataset
+  - [ ] Data Cleaning Techniques in Brief
+  - [ ] Exploratory Data Analysis(EDA)
+- [ ] Model Building
+- [ ] Model Performance
+- [ ] Deployment Process
 - [ ] Tools to use
   - [ ] Jupyter 
   - [ ] SQL Language
@@ -27,6 +33,7 @@ I will have to use this as an introduction to a project that I had been wanting 
     - [ ] Eigenvalues and Eigenvectors  
   - [ ] Calculus
   - [ ] Statistics
+
 
 
 [ML1-url]: https://github.com/ivymorenomt/100DaysML/tree/master/1-10
