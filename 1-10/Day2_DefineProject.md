@@ -30,6 +30,20 @@ The Machine Learning Model I will be using would be most likely Linear Regressio
 
 Linear Regression's objective is to establish if there is a relationship between variables. The variables may just be gender, age, food/dietary intake, weather conditions, and hormonal changes. I may have to add more variables as the project progresses.
 
+
+### Data to Look into
+As the project progresses, the requirements may change according to the availability of the data.
+
+I would look at the following to predict an incoming migraine:
+1. Gender - Mostly are females, but we will have to consider men as well.
+2. Age - how young or old
+3. Diet - food triggers
+4. Activity - active or sedentary?
+5. Hormones - is the migraine triggered by monthly periods? Or are there any hormonal issues?
+6. Weather - weather patterns.
+
+I want to look into these data to define patterns or likelihood of incoming Migraine.
+
 ### Tools to use
 - Jupyter
 - Python

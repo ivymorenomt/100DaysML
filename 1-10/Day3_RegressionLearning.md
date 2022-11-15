@@ -11,10 +11,9 @@ Then forecast new observations. Can we use what we know about the relationship t
 
 ### Variable's Roles
 
-Linear equation is the formula that we are going to use:
-
+The linear regression equation will be:
 ```
-    Y = a + bX
+    y = ax + b
 ```
 
 Dependent Variable 
@@ -36,18 +35,18 @@ y = $\beta_0$ + $\beta_1$ x
 where $\beta_0$ is the **intercept** or constant, and $\beta_1$ which is used to multiply with x. It is also known as the coefficient of x, or the **slope** of x. 
 
 To summarize, we call this linear because it represents a straight line in a bi-dimensional plot.
-
-The linear regression equation will be:
-```
-    y = ax + b
-```
+The goal is to estimate $\beta_0$ and $\beta_1$ within the observed range of X and Y values, such that predicted values of Y are as close to the actual Y values as possible, generally determined by minimizing the [residual sum of squares][rss-url]. 
 
 
 References:
 - [Introduction to Simple Linear Regression][youtube-url]
 - [Regression Analysis in Machine Learning][linear-url] 
 - [Linear Regression in Machine Learning][lin2-url]
+- [Residual Sum of squares][rss-url]
+- [ML Glossary][mlglo-url]
 
+[mlglo-url]: https://ml-cheatsheet.readthedocs.io/en/latest/index.html
+[rss-url]: https://www.investopedia.com/terms/r/residual-sum-of-squares.asp
 [youtube-url]: https://www.youtube.com/watch?v=owI7zxCqNY0&t=122s
 [linear-url]: https://www.javatpoint.com/regression-analysis-in-machine-learning
 [lin2-url]: https://www.javatpoint.com/linear-regression-in-machine-learning
