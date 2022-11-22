@@ -14,18 +14,19 @@ Then forecast new observations. Can we use what we know about the relationship t
 Linear equation is the formula that we are going to use:
 
 ```
-    Y = a + bX
+    Y = ax + b
 ```
+In machine learning world, the formula above is also known as the **Cost Function** formula.
 
 Dependent Variable 
  - we denote this as the y variable.
  - This is the variable whose values we want to explain or forecast.
-  - this is also known as the **target** variable
+  - this is also known as the **target** variable, or target set.
 
 Independent Variable
   - the values are independent
   - we denote this as the x variable. 
-  - this is also known as the **predictor** variable
+  - this is also known as the **predictor** variable, or features set.
 
 so a and b are **linear coefficients**
 
@@ -37,11 +38,7 @@ where $\beta_0$ is the **intercept** or constant, and $\beta_1$ which is used to
 
 To summarize, we call this linear because it represents a straight line in a bi-dimensional plot.
 
-The linear regression equation will be:
-```
-    y = ax + b
-```
-
+Click here to [Regression Learning Continuation][continuation-url]
 
 References:
 - [Introduction to Simple Linear Regression][youtube-url]
@@ -51,3 +48,4 @@ References:
 [youtube-url]: https://www.youtube.com/watch?v=owI7zxCqNY0&t=122s
 [linear-url]: https://www.javatpoint.com/regression-analysis-in-machine-learning
 [lin2-url]: https://www.javatpoint.com/linear-regression-in-machine-learning
+[continuation-url]: https://github.com/ivymorenomt/100DaysML/blob/master/1-10/Day2_DefineProject.md
