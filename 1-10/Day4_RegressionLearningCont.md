@@ -4,11 +4,11 @@ When using linear regression model, we make our predictions by drawing a line th
 
 The best fit would look like below:
 
-![Graph](..\images\sampleofbestfit.png)
+![Graph](https://github.com/ivymorenomt/100DaysML/blob/master/images/sampleofbestfit.png)
 
 Example, we are predicting the house prices using sq ft area(x) and the price of a house(single variable data set).
 Supposedly, the prediction line below:
-![BadErrors](..\images\errors.png)
+![BadErrors](https://github.com/ivymorenomt/100DaysML/blob/master/images/errors.png)
 If the predicting line looks like the above, then this means, we need to find the best fitting line with least errors. This is where the Cost Function comes into picture.
 
 **Cost Function** represents the error between the actual value and the predicting value. The formula will be:
